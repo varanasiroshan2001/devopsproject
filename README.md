@@ -48,5 +48,8 @@ iso link for rhel 8: https://drive.google.com/file/d/1VZ5GLjpo8h35yJQzhMZxwLYRoe
 .first make 2 branches in git bash
 
 .set hooks in master in .git/hooks/post-commit
+then follow the following steps
+
+https://docs.google.com/document/d/1lgqpEcO0mjkaDKEOV8sbf0qugBxEerPuO0Qhtk4tOyY/edit?usp=sharing
 
  
