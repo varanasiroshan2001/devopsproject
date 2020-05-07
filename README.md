@@ -19,9 +19,13 @@ the dev branch to master branch and trigger #job 2
 
 # Prerequisits :
 . docker-ce 
+
 . Red hat enterprise linux 8(u can use any other)
+
 . Git bash 
+
 . Github account
+
 . Jernkins.
 
 # Requirements:
@@ -42,13 +46,16 @@ iso link for rhel 8: https://drive.google.com/file/d/1VZ5GLjpo8h35yJQzhMZxwLYRoe
 .Install git bash from internet .
 
 .While doing the project we recommend you to plz make sure u do these commands:
+
     systemctl enable httpd
     systemctl disable firewalld
+
 # Project starts:
 .first make 2 branches in git bash
 
 .set hooks in master in .git/hooks/post-commit
-then follow the following steps
+ 
+ .Then follow the following steps that i created in drive to complete your project.
 
 https://docs.google.com/document/d/1lgqpEcO0mjkaDKEOV8sbf0qugBxEerPuO0Qhtk4tOyY/edit?usp=sharing
 
