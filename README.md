@@ -57,6 +57,8 @@ iso link for rhel 8: https://drive.google.com/file/d/1VZ5GLjpo8h35yJQzhMZxwLYRoe
  
  .Then follow the following steps that i created in drive to complete your project.
 
-https://docs.google.com/document/d/1lgqpEcO0mjkaDKEOV8sbf0qugBxEerPuO0Qhtk4tOyY/edit?usp=sharing
+https://docs.google.com/document/d/1lgqpEcO0mjkaDKEOV8sbf0qugBxEerPuO0Qhtk4tOyY/edit?usp=sharing or i have uploaded my steps in a docs file u have to download and see it.
+
+Thank You
 
  
